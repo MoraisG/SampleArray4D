@@ -1,0 +1,11 @@
+{
+	"name": "04_SampleArray4D",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./",
+	"projects": [],
+	"dependencies": {
+		"https://github.com/moraisg/array4delphi": ">0.0.0"
+	}
+}

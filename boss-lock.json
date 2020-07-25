@@ -1,0 +1,14 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2020-07-24T20:18:24.2931011-03:00",
+	"installedModules": {
+		"https://github.com/moraisg/array4delphi": {
+			"name": "array4delphi",
+			"version": "master",
+			"hash": "5a782b0e1544d03173ecc3f793b84c16",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}
